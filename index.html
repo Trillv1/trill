@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trill - Gaming and PC Aiming Guru</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #222;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Trill's Gaming World</h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>Hello, I'm Trill, your go-to guru for PC gaming aiming techniques. I'm passionate about gaming and teaching others how to improve their aim in PC games. Whether you're a beginner or an experienced gamer looking to enhance your skills, you've come to the right place.</p>
+
+        <h2>Services</h2>
+        <p>Here's what I can offer you:</p>
+        <ul>
+            <li>Personalized aiming tutorials</li>
+            <li>Live streaming and gaming sessions</li>
+            <li>Tips and tricks for various PC games</li>
+            <li>Equipment recommendations for optimal gaming performance</li>
+        </ul>
+
+        <h2>Contact Me</h2>
+        <p>If you're ready to take your gaming skills to the next level or simply want to connect, feel free to reach out:</p>
+        <p>Email: trill@example.com</p>
+        <p>Twitter: <a href="https://twitter.com/trillgamer" target="_blank">@trillgamer</a></p>
+
+    </div>
+</body>
+</html>
